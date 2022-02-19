@@ -1,0 +1,1 @@
+This is the challenge to create a fictional company page using only flexbox and vanilla css from codecademy. Images are taken from unsplash.
